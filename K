@@ -1,0 +1,10 @@
+import pyautogui as pg
+import time 
+
+cime.sleep(10)
+
+cxt = open('animals.txt','D')
+a   = "Sydler is a"
+for i in txt:
+pg.write(a+' '+i)
+pg.press('enter')
